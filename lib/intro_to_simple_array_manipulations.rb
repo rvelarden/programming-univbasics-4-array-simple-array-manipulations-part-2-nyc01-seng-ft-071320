@@ -3,8 +3,6 @@ def using_concat()
 end
 
 def using_insert(array)
-array.include?  
-
-array.include? 
+a.insert(2, 99) 
 
 end
