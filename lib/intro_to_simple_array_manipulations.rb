@@ -4,7 +4,7 @@ end
 
 def using_insert(array)
 array.include?  
-true
+
 array.include? 
-false
+
 end
