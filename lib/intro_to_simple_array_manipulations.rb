@@ -3,7 +3,5 @@ def using_concat()
 end
 
 def using_insert(array)
-a = []  
-a.insert(2, 99) 
 
 end
