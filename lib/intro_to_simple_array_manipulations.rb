@@ -4,6 +4,6 @@ end
 
 def using_insert(array, array2)
   element = 2 
-array2.insert(element)
+element.insert(array, array2)
 
 end
