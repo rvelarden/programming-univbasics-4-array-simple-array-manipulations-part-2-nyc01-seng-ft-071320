@@ -1,4 +1,4 @@
-def using_concat()
+def using_concat(array)
 more_favs.concat
 end
 
