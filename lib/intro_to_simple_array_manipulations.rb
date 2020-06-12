@@ -7,4 +7,6 @@ index = 4
 array.insert(index, element)
 end
 
-def using_uniq
+def using_uniq(array)
+  
+end  
