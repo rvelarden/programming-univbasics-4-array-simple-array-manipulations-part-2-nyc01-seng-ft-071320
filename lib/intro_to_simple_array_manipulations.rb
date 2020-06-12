@@ -8,5 +8,5 @@ array.insert(index, element)
 end
 
 def using_uniq(array)
-  
+array.  
 end  
